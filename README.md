@@ -16,9 +16,6 @@ A simple file explorer application built using Java Swing. This application allo
 - Java Development Kit (JDK) 21 or later
 - Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse (optional)
 
-## Getting Started
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/file-explorer.git
+## Acknowledgements
+- Java Swing for the graphical user interface.
+- Eclipse IDE for development.
