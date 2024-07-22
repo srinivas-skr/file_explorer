@@ -19,3 +19,4 @@ A simple file explorer application built using Java Swing. This application allo
 ## Acknowledgements
 - Java Swing for the graphical user interface.
 - Eclipse IDE for development.
+- This project is licensed under the MIT License. 
